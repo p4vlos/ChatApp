@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "567531052191",
+    "firebase_url": "https://androidchat-cb250.firebaseio.com",
+    "project_id": "androidchat-cb250",
+    "storage_bucket": "androidchat-cb250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567531052191:android:1df969d21463c1a6",
+        "android_client_info": {
+          "package_name": "com.pavlosnicolaou.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567531052191-j9pq31et0las87ah1b5eiqvks6and7g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7o5sZP_f2c9mm0xDnHGFSgt7sfaoT5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
